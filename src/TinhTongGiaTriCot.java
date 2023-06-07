@@ -2,6 +2,9 @@ import java.util.Scanner;
 
 public class TinhTongGiaTriCot {
     public static void main(String[] args) {
+
+        int[][] arr2 = {{1,2,3,3}, {9,5,6,2}, {5,6,3,4}};
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("nhập số hàng");
